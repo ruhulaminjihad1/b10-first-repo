@@ -1,0 +1,33 @@
+h3{
+    font-size: 30px;
+}
+.blog-2{
+    /* display: none; */
+    /* visibility: hidden; */
+    background-color: bisque;
+}
+.blog{
+    border: 10px solid tomato;
+  
+}
+.blog{
+    margin: 20px;
+    box-shadow: 10px 10px 20px gray;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.special{
+    display: inline-block;
+    color: palevioletred;
+    font-weight: 900;
+    border: 2px black dotted;
+}
+.header{
+    background-image: url('maxresdefault.jpg');
+    background-color: bisque;
+    font-size: 10px;
+  height: 400px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+p{color: blue;}
+<!--this is comment>
